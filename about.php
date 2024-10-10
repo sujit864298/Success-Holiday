@@ -36,6 +36,7 @@
 						
 						<h3>How to use</h3>
 						<p>It's very easy to use our service.</p>
+						<p>It's Groundgift </P>
 						<p>First <b>create a free account</b> by filling <a href="register.php">this form</a> or you can <b>login directly with your Twitter account</b>.</p>
 						<p><b>Note</b>: If you login using twitter, please go to <a href="account.php">your account page</a> and provide a email and/or phone number so that people may contact you for your services</p>
 						<p>Once all that is done, you can <b>Add your Products/Services</b> or <b>browse existing ones</b>. You can also <b>search by tags, location, name or onwer</b> of those Products/Services!</p>
